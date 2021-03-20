@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Brighton Hill
+
+using System;
 
 namespace NumberGame
 {
@@ -6,8 +8,12 @@ namespace NumberGame
     {
         static void Main(string[] args)
         {
+            //userguess is input from user 
             Console.WriteLine("Please guess a number between 1 and 100");
             bool isnumber = Int32.TryParse(Console.ReadLine(), out int userguess);
+
+
+            // Using if statements in this scenario is valid right??
 
             Random random = new Random();
             //  int randomnumber = random.Next(1, 100); I wanted it to output a random number but how would I decided how low vs how high it would be??
@@ -34,7 +40,8 @@ namespace NumberGame
             }
 
 
-
+            Console.ReadKey();
+            // I cused if statements to decide how close the user was.
         }
     }
 }
