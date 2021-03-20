@@ -1,0 +1,13 @@
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\bin\Debug\netcoreapp3.1\Monogram.exe
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\bin\Debug\netcoreapp3.1\Monogram.deps.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\bin\Debug\netcoreapp3.1\Monogram.runtimeconfig.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\bin\Debug\netcoreapp3.1\Monogram.runtimeconfig.dev.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\bin\Debug\netcoreapp3.1\Monogram.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\bin\Debug\netcoreapp3.1\Monogram.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\obj\Debug\netcoreapp3.1\Monogram.csprojAssemblyReference.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\obj\Debug\netcoreapp3.1\Monogram.AssemblyInfoInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\obj\Debug\netcoreapp3.1\Monogram.AssemblyInfo.cs
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\obj\Debug\netcoreapp3.1\Monogram.csproj.CoreCompileInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\obj\Debug\netcoreapp3.1\Monogram.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\obj\Debug\netcoreapp3.1\Monogram.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Monogram\obj\Debug\netcoreapp3.1\Monogram.genruntimeconfig.cache
