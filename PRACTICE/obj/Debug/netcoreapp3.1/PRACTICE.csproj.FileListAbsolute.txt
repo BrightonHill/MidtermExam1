@@ -1,0 +1,13 @@
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\bin\Debug\netcoreapp3.1\PRACTICE.exe
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\bin\Debug\netcoreapp3.1\PRACTICE.deps.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\bin\Debug\netcoreapp3.1\PRACTICE.runtimeconfig.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\bin\Debug\netcoreapp3.1\PRACTICE.runtimeconfig.dev.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\bin\Debug\netcoreapp3.1\PRACTICE.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\bin\Debug\netcoreapp3.1\PRACTICE.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\obj\Debug\netcoreapp3.1\PRACTICE.csprojAssemblyReference.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\obj\Debug\netcoreapp3.1\PRACTICE.AssemblyInfoInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\obj\Debug\netcoreapp3.1\PRACTICE.AssemblyInfo.cs
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\obj\Debug\netcoreapp3.1\PRACTICE.csproj.CoreCompileInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\obj\Debug\netcoreapp3.1\PRACTICE.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\obj\Debug\netcoreapp3.1\PRACTICE.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\PRACTICE\obj\Debug\netcoreapp3.1\PRACTICE.genruntimeconfig.cache

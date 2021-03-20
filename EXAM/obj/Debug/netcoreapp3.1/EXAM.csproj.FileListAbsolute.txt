@@ -1,0 +1,13 @@
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\obj\Debug\netcoreapp3.1\EXAM.csprojAssemblyReference.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\obj\Debug\netcoreapp3.1\EXAM.AssemblyInfoInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\obj\Debug\netcoreapp3.1\EXAM.AssemblyInfo.cs
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\obj\Debug\netcoreapp3.1\EXAM.csproj.CoreCompileInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\bin\Debug\netcoreapp3.1\EXAM.exe
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\bin\Debug\netcoreapp3.1\EXAM.deps.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\bin\Debug\netcoreapp3.1\EXAM.runtimeconfig.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\bin\Debug\netcoreapp3.1\EXAM.runtimeconfig.dev.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\bin\Debug\netcoreapp3.1\EXAM.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\bin\Debug\netcoreapp3.1\EXAM.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\obj\Debug\netcoreapp3.1\EXAM.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\obj\Debug\netcoreapp3.1\EXAM.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\EXAM\obj\Debug\netcoreapp3.1\EXAM.genruntimeconfig.cache
