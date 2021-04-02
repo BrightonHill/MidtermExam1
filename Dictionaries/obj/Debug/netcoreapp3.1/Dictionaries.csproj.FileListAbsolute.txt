@@ -1,0 +1,13 @@
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.exe
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.deps.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.runtimeconfig.dev.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\bin\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csprojAssemblyReference.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfoInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.AssemblyInfo.cs
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.csproj.CoreCompileInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Dictionaries\obj\Debug\netcoreapp3.1\Dictionaries.genruntimeconfig.cache

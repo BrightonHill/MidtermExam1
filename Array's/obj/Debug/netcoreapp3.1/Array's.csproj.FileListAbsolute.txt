@@ -1,0 +1,12 @@
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\bin\Debug\netcoreapp3.1\Array's.exe
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\bin\Debug\netcoreapp3.1\Array's.deps.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\bin\Debug\netcoreapp3.1\Array's.runtimeconfig.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\bin\Debug\netcoreapp3.1\Array's.runtimeconfig.dev.json
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\bin\Debug\netcoreapp3.1\Array's.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\bin\Debug\netcoreapp3.1\Array's.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\obj\Debug\netcoreapp3.1\Array's.AssemblyInfoInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\obj\Debug\netcoreapp3.1\Array's.AssemblyInfo.cs
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\obj\Debug\netcoreapp3.1\Array's.csproj.CoreCompileInputs.cache
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\obj\Debug\netcoreapp3.1\Array's.dll
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\obj\Debug\netcoreapp3.1\Array's.pdb
+C:\Users\Brighton Hill\Source\Repos\MidtermExam1\Array's\obj\Debug\netcoreapp3.1\Array's.genruntimeconfig.cache

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array's", "Array's.csproj", "{ADC771BF-8F67-47C9-AE16-5D903EE8DED9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lists", "..\Lists\Lists.csproj", "{D9951F03-4784-47F0-A075-923D1084179D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "..\Dictionaries\Dictionaries.csproj", "{E1738DCA-0FB5-47C1-9AFB-27D14AACFFA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC771BF-8F67-47C9-AE16-5D903EE8DED9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC771BF-8F67-47C9-AE16-5D903EE8DED9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC771BF-8F67-47C9-AE16-5D903EE8DED9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC771BF-8F67-47C9-AE16-5D903EE8DED9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9951F03-4784-47F0-A075-923D1084179D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9951F03-4784-47F0-A075-923D1084179D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9951F03-4784-47F0-A075-923D1084179D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9951F03-4784-47F0-A075-923D1084179D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1738DCA-0FB5-47C1-9AFB-27D14AACFFA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1738DCA-0FB5-47C1-9AFB-27D14AACFFA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1738DCA-0FB5-47C1-9AFB-27D14AACFFA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1738DCA-0FB5-47C1-9AFB-27D14AACFFA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D71BE1BE-54D8-4D9C-8A6E-F114C06C00DD}
+	EndGlobalSection
+EndGlobal
